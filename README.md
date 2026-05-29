@@ -16,4 +16,4 @@ This project analyzes transactional data from Swiggy to uncover key business ins
 - **Tools Used:** Excel / Power BI (Advanced Data Modeling, DAX, and Data Cleaning)
 
 ## 📸 Dashboard Preview
-*(Aapne jo screenshots repository mein daale hain, unka link yahan dikhega)*
+![Swiggy Dashboard](Swiggy_project_Analysis.png)
